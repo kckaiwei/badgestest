@@ -8,4 +8,4 @@ Python-ilorest-badges
 [![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/HewlettPackard/python-ilorest-library/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/HewlettPackard/python-ilorest-library.svg)](https://github.com/HewlettPackard/python-ilorest-library/issues)
 [![GitHub forks](https://img.shields.io/github/forks/HewlettPackard/python-ilorest-library.svg)](https://github.com/HewlettPackard/python-ilorest-library/network)
-[![Github All Releases](https://img.shields.io/github/downloads/HewlettPackard/python-ilorest-library/total.svg?maxAge=2592000)]()
+[![Github All Releases](https://img.shields.io/github/downloads/HewlettPackard/python-ilorest-library/total.svg?maxAge=2592000)](https://github.com/HewlettPackard/python-ilorest-library)
